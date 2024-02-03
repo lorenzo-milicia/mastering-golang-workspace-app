@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	g := greeting.Greet(greeting.Italian)
+	g := greeting.Greet(greeting.Polish)
 	fmt.Println(g)
 }
